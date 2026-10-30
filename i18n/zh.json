@@ -1,0 +1,407 @@
+{
+  "locale": "zh-CN",
+  "htmlLang": "zh-CN",
+  "languageName": "中文",
+  "nav.calculator": "计算器",
+  "nav.method": "公式",
+  "nav.guide": "手册",
+  "nav.faq": "问答",
+  "nav.cta": "开始计算",
+  "hero.eyebrow": "给认真生活的人，一把自由的尺",
+  "hero.title": "你的自由<br><em>值多少钱？</em>",
+  "hero.lede": "不工作，也能维持你想要的生活。填几项数据，马上算出你的自由门槛、专属徽章和长期储蓄计划。",
+  "hero.ctaPrimary": "算出我的数字",
+  "hero.ctaSecondary": "先看背后的公式",
+  "hero.note": "无需登录 · 数据只在你的浏览器中计算",
+  "hero.orbitCaption": "你每月的生活",
+  "hero.chipLife": "月生活",
+  "hero.chipKids": "育儿",
+  "hero.chipHealth": "健康",
+  "hero.chipHome": "大项",
+  "hero.stat1": "月开销乘数",
+  "hero.stat2": "扣除通胀后的真实回报",
+  "hero.stat3": "构成你自由数字的板块",
+  "hero.statNote": "数字不是终点，<br>是重新安排生活的起点。",
+  "ticker.1": "你的生活，你的数字",
+  "ticker.2": "不躺平，也不被数字绑架",
+  "ticker.3": "让钱替你工作，让选择回到你手里",
+  "ticker.4": "自由不是终点，是余量",
+  "calc.eyebrow": "01 / 计算你的临界值",
+  "calc.title": "把你的生活，<br><em>翻译成一个数字</em>",
+  "calc.lede": "所有金额均按今天的购买力计算。不确定也没关系——每一项都配了通俗解释和真实参考值。慢慢填，这可能是你今天最值得做的一次算术。",
+  "calc.currency": "货币",
+  "calc.today": "所有金额按今天购买力",
+  "calc.groupLife": "日常的你",
+  "calc.groupLifeDesc": "你想以怎样的生活水平，不再为钱工作？",
+  "calc.monthly": "理想月开销",
+  "calc.monthlyHelp": "房租、餐饮、交通、旅行、娱乐……按今天的物价，不含育儿、买房和重大医疗。",
+  "calc.perMonth": "/ 月",
+  "calc.quickFill": "快速填入",
+  "calc.chipAvg": "平均参考",
+  "calc.kids": "孩子数量",
+  "calc.kidsHelp": "从备孕到 18 岁，教育、医疗、照护都算在内。",
+  "calc.kidsUnit": "个孩子",
+  "calc.perChild": "每个孩子预留",
+  "calc.health": "家庭终身健康储备",
+  "calc.healthHelp": "应对大病、护理与高龄医疗。可按家庭合计填写。",
+  "calc.home": "重大资本开支",
+  "calc.homeHelp": "理想住房、创业金、留学等一次性大项。租房请把租金计入月开销。",
+  "calc.groupBig": "人生的吞金兽",
+  "calc.groupBigDesc": "这些不是每个月都发生，却会显著改变你的自由门槛。",
+  "calc.groupStart": "你的起点",
+  "calc.groupStartDesc": "这些数据不改变自由数字，但决定你多久能抵达。",
+  "calc.optional": "可选",
+  "calc.assets": "当前可投资资产",
+  "calc.assetsHelp": "不含自住房、应急金和近期要用的钱。",
+  "calc.savings": "每月可投资金额",
+  "calc.savingsHelp": "发薪日后能稳定投入的金额。",
+  "calc.age": "当前年龄",
+  "calc.ageUnit": "岁",
+  "calc.ageHelp": "用于估算你抵达自由的年龄。",
+  "calc.return": "长期实际回报率",
+  "calc.returnHelp": "已扣除通胀。视频采用 2.5%，对应 480 倍；历史表现不代表未来。",
+  "calc.returnValue": "2.5%",
+  "calc.multiplierNote": "乘数 = 12 ÷ 实际回报率。回报假设越乐观，所需本金越少，但风险也越高。",
+  "calc.submit": "算出我的自由数字",
+  "calc.reset": "重置",
+  "calc.privacy": "不上传、不追踪。所有计算都发生在你的浏览器里。",
+  "calc.asideKicker": "你的自由公式",
+  "calc.asideTitle": "四个板块，拼出你的数字",
+  "calc.asideEqMonthly": "月生活",
+  "calc.asideEqKids": "育儿",
+  "calc.asideEqKidsNote": "预留",
+  "calc.asideEqHealth": "健康",
+  "calc.asideEqHealthNote": "终身",
+  "calc.asideEqHome": "大项",
+  "calc.asideEqHomeNote": "一次性",
+  "calc.asideTotal": "自由数字",
+  "calc.asideNote": "乘数不是魔法，而是 12 ÷ 实际回报率：让资产在支付生活费之后，仍能跟上通胀、不被花完。",
+  "calc.gaugeLabel": "当前乘数",
+  "calc.gaugeUnit": "个月生活费",
+  "calc.gaugeNote": "乘数越高，意味着你需要为同一种生活准备更多本金。",
+  "calc.asideQuote": "“别高估财富自由之后的快乐，也别忽略眼前的美好。”",
+  "calc.tip.monthly": "<strong>一个简单的估算方法</strong><br>打开最近 3 个月的账单，把房租/房贷、餐饮、交通、保险、旅行、娱乐相加，取平均。别忘了每年才发生一次的开销——把它们除以 12，再加进去。",
+  "calc.tip.kids": "<strong>参考不是标准</strong><br>《中国生育成本报告》估算，2024 年把孩子养到 18 岁的全国平均成本约 58 万元；北京约 100 万元，上海约 108 万元。多孩家庭的平均成本通常会低约 15%，你可以手动下调。",
+  "calc.tip.health": "<strong>这是安全边际，不是预测</strong><br>2025 年全国人均卫生支出终身约 20 万元。二线城市每人建议预留 15–30 万元，一线城市 30–60 万元。家族病史、保险覆盖和年龄都会改变这个数字。",
+  "calc.tip.home": "<strong>买房和租房，只选一种算法</strong><br>买房：把总价或你实际要支付的首付与贷款本金放在这里。租房：把月租金放进“理想月开销”，不要重复计算。",
+  "calc.tip.return": "<strong>为什么默认 2.5%？</strong><br>名义回报 4%–4.5% 减去通胀 2%，约为 2%–2.5%。2.5% 对应 480×；如果你坚持 3%，乘数会降到 400×；如果只有 2%，乘数会升到 600×。假设越乐观，越要问自己：凭什么？",
+  "calc.error.monthly": "请先填入一个大于 0 的月开销。",
+  "calc.error.target": "自由数字需要大于 0。请检查各项金额。",
+  "calc.error.age": "年龄需在 18 到 80 岁之间。",
+  "calc.summary.live": "实时试算",
+  "result.eyebrow": "02 / 你的自由数字",
+  "result.title": "你的自由，有名字了。",
+  "result.lede": "这是按你选择的生活方式，在不动用本金、购买力不缩水的前提下，需要积累的资产总额。",
+  "result.meta": "以今天的购买力计 · {rate}% 实际回报 · {mult}× 法则",
+  "result.ctaPlan": "生成长期储蓄计划",
+  "result.ctaShare": "制作分享卡",
+  "result.recalc": "调整条件，重新计算",
+  "result.progress": "当前进度",
+  "result.progressNote": "当前资产 ÷ 自由数字",
+  "result.passive": "本金覆盖的月生活费",
+  "result.passiveNote": "不含育儿、医疗与大项支出",
+  "result.reach": "预计抵达",
+  "result.reachNote": "按当前储蓄与回报假设",
+  "result.reachNow": "已经抵达",
+  "result.notReached": "60 年内未达成",
+  "result.reachPattern": "{year} · {age} 岁",
+  "result.gap": "尚需积累",
+  "result.gapNote": "从今天开始，让复利接力",
+  "result.breakdownKicker": "THE ANATOMY",
+  "result.breakdown": "这个数字由什么组成",
+  "result.legendLife": "生活开销",
+  "result.legendKids": "育儿预留",
+  "result.legendHealth": "健康储备",
+  "result.legendHome": "重大资本",
+  "result.insight": "每月少花 {step}，自由门槛就降低 {impact}。反过来，每月多花 {step}，自由就贵了 {impact}。",
+  "result.badgeCaption": "你的「{tier}」纪念徽章",
+  "result.badgeSub": "可下载 · 可分享 · 属于你",
+  "badge.freedom": "财富自由",
+  "badge.myNumber": "MY FREEDOM NUMBER",
+  "badge.tier": "TIER {tier}",
+  "badge.tapHint": "移动鼠标，看看徽章的光",
+  "badge.amountLabel": "我的自由数字",
+  "tiers": [
+    "初见自由",
+    "微风自由",
+    "山海自由",
+    "星河自由",
+    "传说自由"
+  ],
+  "method.eyebrow": "03 / 公式拆解",
+  "method.title": "自由不是拍脑袋，<br><em>它有四个变量</em>",
+  "method.lede": "这个公式不承诺你一定会富有，它只是把“我需要多少钱”从焦虑，变成一个可以拆解、可以行动的问题。",
+  "method.cards": [
+    {
+      "icon": "wallet",
+      "label": "LIFESTYLE",
+      "title": "月生活费 × 480",
+      "body": "这是公式的主干。480 代表：在 2.5% 的真实回报下，你需要 480 个月的生活费作为本金，才能每月花掉一个月的生活费、同时让本金跟上通胀。",
+      "example": "月花 ¥10,000 → ¥4,800,000"
+    },
+    {
+      "icon": "baby",
+      "label": "CHILDREN",
+      "title": "孩子数量 × 单孩成本",
+      "body": "育儿不是每月固定开销，而是一笔长达 18 年、逐步发生的大额投入。先估一个孩子从备孕到成年的总成本，再乘以数量。",
+      "example": "1 个孩子 · ¥580,000"
+    },
+    {
+      "icon": "heart",
+      "label": "HEALTH",
+      "title": "终身健康储备",
+      "body": "医疗支出高度不确定。它不是“一定会花完”的钱，而是防止一场大病把整个计划击穿的安全垫。",
+      "example": "夫妻二人 · ¥300,000–¥1,200,000"
+    },
+    {
+      "icon": "home",
+      "label": "CAPITAL",
+      "title": "房子与其他大项",
+      "body": "房子、创业、留学、照顾父母……这些一次性资本开支不靠 480 倍覆盖，直接加总。租房则把租金放进月开销。",
+      "example": "一套房 · ¥7,000,000"
+    }
+  ],
+  "method.deepCaption": "每个月的生活，<br>乘以 480 个月",
+  "method.deepChip": "= 480 个月的生活费",
+  "method.deepKicker": "WHY 480?",
+  "method.deepTitle": "为什么不是 300，也不是 1000？",
+  "method.deepLede": "视频采用了一个偏保守的真实回报假设：名义回报 4%–4.5%，长期通胀约 2%，扣掉之后实际回报约 2.5%。用 12 个月除以 2.5%，得到 480。",
+  "method.points": [
+    {
+      "value": "12",
+      "body": "<b>一年有 12 个月。</b>要让本金每年产生 12 个月的生活费，先算清你的年支出。"
+    },
+    {
+      "value": "2.5%",
+      "body": "<b>扣掉通胀后，钱仍然在为你工作。</b>这是视频采用的长期、偏保守假设，不是保证。"
+    },
+    {
+      "value": "480",
+      "body": "<b>12 ÷ 2.5% = 480。</b>它不是魔法，是一把尺：回报越低，需要的本金越多。"
+    }
+  ],
+  "method.deepNote": "注意：4% 法则常被用来估算“花掉本金”的退休提取率；这里的 480× 更严格——它要求本金不缩水，购买力也永远不下降。",
+  "method.assumptionsKicker": "THE FINE PRINT",
+  "method.assumptionsTitle": "四个必须知道的假设",
+  "method.assumptions": [
+    {
+      "icon": "chart",
+      "title": "通胀不会停",
+      "body": "今天 1 万元的购买力，20 年后可能只剩 6,700 元。公式使用实际回报，已经扣除了这层侵蚀。"
+    },
+    {
+      "icon": "target",
+      "title": "回报不会直线",
+      "body": "真实市场有波动。若自由初期遇到大跌，同样的平均回报也可能不够花。保留 1–2 年生活费的安全垫。"
+    },
+    {
+      "icon": "refresh",
+      "title": "人生会改答案",
+      "body": "结婚、生子、搬家、照顾父母，都会改变月开销。每隔一两年重算一次，比一次算到完美更重要。"
+    },
+    {
+      "icon": "leaf",
+      "title": "这不是躺平许可",
+      "body": "财富自由买到的不是“什么都不做”，而是“可以说不”。别为了一个数字，错过眼前的生活。"
+    }
+  ],
+  "quote.text": "别高估财富自由之后的快乐，也别忽略眼前的美好。",
+  "quote.by": "财富自由不是把人生劈成“受苦”和“享乐”两半，而是让你重新拥有选择。",
+  "guide.eyebrow": "04 / 计算手册",
+  "guide.title": "填每一项之前，<br><em>先理解它</em>",
+  "guide.lede": "不需要金融学位。把这些说明读完，你对“自由”的估算会比大多数人都清醒。",
+  "guide.items": [
+    {
+      "tag": "FORMULA",
+      "title": "480 到底是怎么来的？",
+      "body": [
+        "视频的核心假设是：名义投资回报 4%–4.5%，长期通胀 2%，所以扣除通胀后的真实回报约为 2.5%。如果你每月花 x，一年花 12x；要让资产每年产生 12x 的实际收益且本金不缩水，就需要 12x ÷ 2.5% = 480x。",
+        "换个说法：每 480 元本金，可以永久支撑每月 1 元的生活费。每月多花 1,000 元，自由门槛就增加 48 万元。这个乘数把“我想要什么样的生活”直接翻译成了“我需要多少本金”。",
+        "它和常见的 4% 法则不同。4% 法则通常允许你花掉本金；480× 更严格，要求本金和购买力都不缩水。所以它更保守，也更适合“永远不工作”的极端假设。"
+      ],
+      "asideLabel": "记住",
+      "aside": "480× 是 2.5% 实际回报下的结果，不是宇宙真理。"
+    },
+    {
+      "tag": "LIFESTYLE",
+      "title": "月开销应该怎么估？",
+      "body": [
+        "先别想“我应该花多少”，而是问“我希望怎样生活”。如果你明天不再上班，你理想中的普通一个月：住在哪里、吃什么、怎么出行、一年旅行几次、有没有请人帮忙？把这些按今天的价格写下来。",
+        "最容易漏掉的是非月度支出：保险年费、体检、节日礼物、电子产品更换、房屋维修。把过去 12 个月的总支出除以 12，通常比拍脑袋更准。",
+        "如果你打算租房到老，租金要算进月开销；如果你计划买房，房款放在“重大资本开支”，不要把两者重复计算。"
+      ],
+      "asideLabel": "参考",
+      "aside": "2025 年全国居民人均消费支出约 2,456 元/月。"
+    },
+    {
+      "tag": "CHILDREN",
+      "title": "养孩子到底要留多少？",
+      "body": [
+        "《中国生育成本报告》估算，2024 年中国家庭把孩子从备孕养到 18 岁的全国平均成本约 58 万元；北京约 100 万元，上海约 108 万元，贵州约 43 万元。区域差异很大。",
+        "这笔钱不是一次性支出，而是分布在 18 年里。但在自由数字里，我们提前把它整笔预留出来，避免未来现金流被击穿。",
+        "多孩家庭可以适当下调单孩成本：报告提到每多一个孩子，平均成本大约降低 15%。教育理念的差异更大——公立路线和国际路线，可能是完全不同的数量级。"
+      ],
+      "asideLabel": "提示",
+      "aside": "这只是到 18 岁，不含大学与婚房。"
+    },
+    {
+      "tag": "HEALTH",
+      "title": "健康储备为什么不能省？",
+      "body": [
+        "国家统计的人均卫生支出终身约 20 万元，但这个口径偏窄。更实用的估法是：二线城市每人预留 15–30 万元，一线城市每人 30–60 万元，再根据家族病史、年龄和保险覆盖调整。",
+        "健康储备和别的钱不一样。它可能一辈子用不上，也可能在一年内被一场大病全部消耗。所以它不适合追求高收益，而适合放在流动性好、风险低的位置。",
+        "如果你已有商业医疗险，这笔储备可以主要覆盖自费药、护理、收入损失和海外治疗等保险不报的部分。"
+      ],
+      "asideLabel": "安全边际",
+      "aside": "宁可多留一点，也不要在最脆弱的时候被迫卖资产。"
+    },
+    {
+      "tag": "HOUSING",
+      "title": "房子、租金和养老金怎么处理？",
+      "body": [
+        "买房：把理想住房的总价，或你实际需要支付的首付与贷款本金，放进“重大资本开支”。它不参与 480 倍复利，直接加在目标上。",
+        "租房：把月租金放进“理想月开销”。这样它会自动被 480 倍覆盖——因为租金是你持续的生活成本，而不是一次性资本。",
+        "养老金和社保：公式默认你完全靠自己。如果你未来有稳定的养老金，可以适当降低目标，但别把不确定的制度性收入全部押上。"
+      ],
+      "asideLabel": "不要重复",
+      "aside": "买房和租房，只能选一种计入方式。"
+    },
+    {
+      "tag": "RETURNS",
+      "title": "为什么回报率不能随便调高？",
+      "body": [
+        "把回报假设从 2.5% 调到 3.5%，乘数会从 480 降到约 343，自由数字瞬间少掉近三成。这就是为什么“乐观假设”很危险：它让目标看起来更近，却没有改变风险。",
+        "视频选择 2.5%，是因为它扣除了 2% 的通胀后，只要求 4%–4.5% 的名义回报。对于普通人，这已经需要合理的资产配置，而不是银行定存。",
+        "更稳妥的做法是做压力测试：用 2% 算一遍，看看自己是否仍能接受。如果 2% 下的数字让你绝望，说明你真正需要调整的可能是开支或收入，而不是假设。"
+      ],
+      "asideLabel": "压力测试",
+      "aside": "用更低回报重算一次，看看计划是否仍然成立。"
+    }
+  ],
+  "faq.eyebrow": "05 / 你可能会问",
+  "faq.title": "几个<br><em>真诚的问题</em>",
+  "faq.lede": "如果还有疑问，说明你正在认真对待自己的生活。",
+  "faq.items": [
+    {
+      "q": "这个数字是标准答案吗？",
+      "a": "不是。它是一把根据你的生活方式定制的尺。换一个城市、换一种消费观、换一个回报假设，数字都会变。它的价值不在于精确，而在于让你看见取舍。"
+    },
+    {
+      "q": "480× 和常见的 4% 法则有什么区别？",
+      "a": "4% 法则通常指每年从组合中提取 4%，允许本金在 30 年后耗尽；480× 要求本金永不缩水、购买力不下降，因此更保守。两者假设不同，不能混用。"
+    },
+    {
+      "q": "我有房子 / 没孩子，怎么填？",
+      "a": "有自住房且不打算换房，重大资本开支可以填 0；有房贷就把月供放进月开销。没孩子就把孩子数量设为 0，育儿项会自动归零。"
+    },
+    {
+      "q": "要不要把养老金算进去？",
+      "a": "可以，但要保守。把确定能领取的养老金现值从目标中扣除，或降低目标 10%–20%。不要假设几十年后的制度不变。"
+    },
+    {
+      "q": "为什么我的自由数字比朋友高很多？",
+      "a": "因为你们的生活成本、孩子数量、健康储备和房子计划不同。财富自由从来不是比赛，它只关于你想过什么样的生活。"
+    },
+    {
+      "q": "我的数据会被上传吗？",
+      "a": "不会。所有计算、图表和分享卡都在你的浏览器里完成。刷新页面后，数据不会发送到任何服务器。"
+    }
+  ],
+  "plan.eyebrow": "长期计划",
+  "plan.title": "你的长期储蓄计划",
+  "plan.lede": "从今天到自由，复利如何接力。",
+  "plan.target": "目标",
+  "plan.date": "预计达成",
+  "plan.age": "自由年龄",
+  "plan.monthly": "每月投入",
+  "plan.chartTitle": "资产增长路径",
+  "plan.chartHint": "所有金额按今天的购买力计算",
+  "plan.legendContrib": "累计投入",
+  "plan.legendGrowth": "复利增长",
+  "plan.legendTarget": "目标线",
+  "plan.legendFast": "+20% 加速",
+  "plan.sliderLabel": "调整每月投入",
+  "plan.requiredLabel": "若想 10 年内抵达",
+  "plan.note": "假设每月投入按通胀调整、回报稳定、无额外大额支出。真实市场会波动，请保留安全边际。",
+  "plan.phasesTitle": "三段式行动清单",
+  "plan.phasesSub": "把数字变成今天就能做的事",
+  "plan.phases": [
+    {
+      "step": "PHASE 01",
+      "title": "先筑底",
+      "body": "存下 6 个月生活费作为应急金，清理高息负债。先让计划不被意外击穿。"
+    },
+    {
+      "step": "PHASE 02",
+      "title": "让复利加速",
+      "body": "把每月投入自动化，建立股债分散的长期组合。每升一次薪，就把加薪的一部分加进投资。"
+    },
+    {
+      "step": "PHASE 03",
+      "title": "守住成果",
+      "body": "接近目标时逐步降低波动，准备 1–2 年生活费的安全垫。自由之后，也别停止学习。"
+    }
+  ],
+  "plan.phaseTarget": "阶段目标 · {amount}",
+  "plan.accelHint": "每月多存 20%，可以提前 {years} 年抵达。",
+  "plan.accelZero": "再多存 20%，抵达时间几乎不变；可以考虑提高投入或降低目标。",
+  "plan.requiredPattern": "{amount} / 月",
+  "plan.notReached": "按当前假设，60 年内无法抵达。试着提高每月投入。",
+  "plan.reachNow": "已经抵达",
+  "plan.never": "尚未开始",
+  "plan.yearLabel": "{year} 年",
+  "plan.ageLabel": "{age} 岁",
+  "plan.nowLabel": "今天",
+  "plan.axisYears": "年",
+  "plan.axisAssets": "资产",
+  "plan.tooltipYear": "第 {year} 年 · {age} 岁",
+  "plan.tooltipContrib": "累计投入 {amount}",
+  "plan.tooltipGrowth": "复利增长 {amount}",
+  "plan.tooltipTotal": "资产合计 {amount}",
+  "share.eyebrow": "分享你的自由",
+  "share.title": "把你的自由，分享出去",
+  "share.lede": "生成一张专属分享卡，下载或直接分享到社交媒体。",
+  "share.download": "下载图片",
+  "share.native": "系统分享",
+  "share.copy": "复制文案",
+  "share.note": "也可以直接长按图片保存。分享卡包含你的金额、进度和长期计划。",
+  "share.quote": "“数字不是终点，是重新安排生活的起点。”",
+  "share.generating": "正在生成分享卡…",
+  "share.text": "我的财富自由数字是 {amount}。不是别人的 500 万，也不是 1 个亿，是只属于我的「{tier}」。你呢？ #财富自由 #自由半径",
+  "share.generated": "分享卡已生成",
+  "share.downloaded": "图片已开始下载",
+  "share.copySuccess": "文案已复制",
+  "share.nativeUnsupported": "当前浏览器不支持系统分享，已为你下载图片",
+  "share.error": "生成失败，请重试",
+  "share.cardTop": "THE FREEDOM NUMBER",
+  "share.cardTag": "我的自由徽章",
+  "share.cardFooter": "算出属于你的数字",
+  "share.cardMetrics": "月生活 · 预计抵达 · 每月投入",
+  "footer.tagline": "把自由，算清楚。",
+  "footer.disclaimer": "本工具仅用于个人财务规划参考，不构成投资、税务或法律建议。所有回报假设均为演示，不保证未来收益。",
+  "footer.inspired": "灵感与数据框架来自",
+  "footer.made": "为认真生活的人而做",
+  "toast.reset": "已恢复到默认值",
+  "toast.invalid": "请检查输入",
+  "common.perMonth": "/ 月",
+  "common.perYear": "/ 年",
+  "common.yearUnit": "年",
+  "common.ageUnit": "岁",
+  "common.close": "关闭",
+  "common.howEstimate": "怎么估？",
+  "common.more": "展开说明",
+  "common.less": "收起",
+  "meta.title": "你的自由值多少钱？· 财富自由计算器",
+  "meta.description": "填几项数据，算出你的财富自由门槛、纪念徽章和长期储蓄计划。",
+  "share.statMonthly": "月生活",
+  "share.statArrival": "预计抵达",
+  "share.statInput": "每月投入",
+  "share.progressLabel": "自由进度",
+  "mascot.calc": "先算一算",
+  "mascot.method": "拆开看看",
+  "mascot.guide": "慢慢读",
+  "mascot.faq": "问清楚",
+  "calc.sceneKicker": "YOUR LIFE, WRITTEN DOWN",
+  "calc.sceneTitle": "把生活写下来，数字才会出现。",
+  "calc.sceneBody": "生活、孩子、健康、房子——四项写清楚，自由才有轮廓。"
+}
