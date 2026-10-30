@@ -1,0 +1,407 @@
+{
+  "locale": "en-US",
+  "htmlLang": "en",
+  "languageName": "English",
+  "nav.calculator": "Calculator",
+  "nav.method": "The method",
+  "nav.guide": "Field guide",
+  "nav.faq": "Questions",
+  "nav.cta": "Calculate",
+  "hero.eyebrow": "A QUIET REVOLUTION, ONE NUMBER AT A TIME",
+  "hero.title": "What is your freedom<br><em>worth?</em>",
+  "hero.lede": "Keep the life you want — even without working for money. Fill in a few numbers to get your freedom number, badge and long-term savings plan.",
+  "hero.ctaPrimary": "Find my number",
+  "hero.ctaSecondary": "See the formula first",
+  "hero.note": "No sign-up · Everything is calculated in your browser",
+  "hero.orbitCaption": "your monthly life",
+  "hero.chipLife": "Monthly life",
+  "hero.chipKids": "Children",
+  "hero.chipHealth": "Health",
+  "hero.chipHome": "Big capital",
+  "hero.stat1": "monthly-expense multiplier",
+  "hero.stat2": "real return after inflation",
+  "hero.stat3": "building blocks in your number",
+  "hero.statNote": "The number is not the finish line.<br>It is a starting point for a rearranged life.",
+  "ticker.1": "Your life. Your number.",
+  "ticker.2": "No lying flat. No being owned by a number.",
+  "ticker.3": "Let money work, so choice returns to you",
+  "ticker.4": "Freedom is not an end. It is margin.",
+  "calc.eyebrow": "01 / FIND YOUR THRESHOLD",
+  "calc.title": "Translate your life<br><em>into one number</em>",
+  "calc.lede": "Every amount is in today’s purchasing power. Not sure? That is fine — each field comes with a plain-language explanation and real-world anchors. Take your time. This may be the most worthwhile arithmetic you do today.",
+  "calc.currency": "Currency",
+  "calc.today": "All amounts in today’s money",
+  "calc.groupLife": "The everyday you",
+  "calc.groupLifeDesc": "At what standard of living would you stop working for money?",
+  "calc.monthly": "Ideal monthly life budget",
+  "calc.monthlyHelp": "Rent, food, transport, travel, fun — in today’s prices, excluding children, a home purchase and major medical costs.",
+  "calc.perMonth": "/ month",
+  "calc.quickFill": "Quick fill",
+  "calc.chipAvg": "Average anchor",
+  "calc.kids": "Children",
+  "calc.kidsHelp": "From planning a child to age 18, including education, health and care.",
+  "calc.kidsUnit": "children",
+  "calc.perChild": "Reserve per child",
+  "calc.health": "Lifetime family health reserve",
+  "calc.healthHelp": "For serious illness, care and later-life medical costs. Enter a household total.",
+  "calc.home": "Major capital outlay",
+  "calc.homeHelp": "A dream home, a business, studying abroad — one-off items. If you rent, put rent in your monthly budget instead.",
+  "calc.groupBig": "The big life stuff",
+  "calc.groupBigDesc": "Not monthly, but they can move your freedom threshold substantially.",
+  "calc.groupStart": "Your starting point",
+  "calc.groupStartDesc": "These do not change the number, but they decide how long it takes to get there.",
+  "calc.optional": "Optional",
+  "calc.assets": "Current investable assets",
+  "calc.assetsHelp": "Exclude your home, emergency fund and money needed soon.",
+  "calc.savings": "Monthly investing capacity",
+  "calc.savingsHelp": "What you can invest consistently after payday.",
+  "calc.age": "Current age",
+  "calc.ageUnit": "years old",
+  "calc.ageHelp": "Used to estimate the age you reach freedom.",
+  "calc.return": "Long-term real return",
+  "calc.returnHelp": "After inflation. The video uses 2.5%, which gives 480×. History does not guarantee the future.",
+  "calc.returnValue": "2.5%",
+  "calc.multiplierNote": "Multiplier = 12 ÷ real return. The more optimistic the return, the less capital you need — and the more risk you carry.",
+  "calc.submit": "Calculate my freedom number",
+  "calc.reset": "Reset",
+  "calc.privacy": "No uploads, no tracking. Every calculation happens in your browser.",
+  "calc.asideKicker": "YOUR FREEDOM FORMULA",
+  "calc.asideTitle": "Four blocks make your number",
+  "calc.asideEqMonthly": "Monthly life",
+  "calc.asideEqKids": "Children",
+  "calc.asideEqKidsNote": "reserve",
+  "calc.asideEqHealth": "Health",
+  "calc.asideEqHealthNote": "lifetime",
+  "calc.asideEqHome": "Capital",
+  "calc.asideEqHomeNote": "one-off",
+  "calc.asideTotal": "Freedom number",
+  "calc.asideNote": "The multiplier is not magic. It is 12 ÷ real return: enough for your assets to pay for life, keep up with inflation and never run out.",
+  "calc.gaugeLabel": "current multiplier",
+  "calc.gaugeUnit": "months of life",
+  "calc.gaugeNote": "The higher the multiplier, the more capital the same life requires.",
+  "calc.asideQuote": "“Don’t overestimate the joy after financial freedom — or overlook the beauty in front of you.”",
+  "calc.tip.monthly": "<strong>A simple way to estimate</strong><br>Open the last three months of statements. Add rent or mortgage, food, transport, insurance, travel and fun, then average them. Do not forget annual costs — divide them by 12 and add them in.",
+  "calc.tip.kids": "<strong>An anchor, not a standard</strong><br>China’s 2024 fertility-cost report puts the national average cost of raising a child to 18 at about ¥580,000; Beijing around ¥1m and Shanghai about ¥1.08m. For multiple children, average cost is often about 15% lower per child; adjust if that fits you.",
+  "calc.tip.health": "<strong>A safety margin, not a forecast</strong><br>China’s lifetime health spending per person averages roughly ¥200,000. A practical range is ¥150k–300k per person in a tier-2 city and ¥300k–600k in a tier-1 city. Family history, insurance and age all matter.",
+  "calc.tip.home": "<strong>Buying and renting: choose one method</strong><br>Buying: put the full price, or the deposit plus mortgage principal you will actually pay, here. Renting: put monthly rent in your life budget and do not double count it.",
+  "calc.tip.return": "<strong>Why 2.5% by default?</strong><br>A 4%–4.5% nominal return minus 2% inflation leaves about 2%–2.5% real. At 2.5%, the multiplier is 480×. At 3%, it falls to 400×; at 2%, it rises to 600×. The more optimistic the assumption, the more you should ask: why me, why now?",
+  "calc.error.monthly": "Please enter a monthly budget greater than zero.",
+  "calc.error.target": "Your freedom number must be greater than zero. Check the amounts.",
+  "calc.error.age": "Age must be between 18 and 80.",
+  "calc.summary.live": "Live estimate",
+  "result.eyebrow": "02 / YOUR FREEDOM NUMBER",
+  "result.title": "Your freedom has a name.",
+  "result.lede": "This is the capital you need to sustain the life you chose — without spending down the principal and without losing purchasing power.",
+  "result.meta": "In today’s money · {rate}% real return · {mult}× rule",
+  "result.ctaPlan": "Build my long-term plan",
+  "result.ctaShare": "Create a share card",
+  "result.recalc": "Adjust and recalculate",
+  "result.progress": "Progress today",
+  "result.progressNote": "Current assets ÷ freedom number",
+  "result.passive": "Monthly life covered by capital",
+  "result.passiveNote": "Excludes children, health and major capital",
+  "result.reach": "Estimated arrival",
+  "result.reachNote": "Based on current savings and return",
+  "result.reachNow": "Already there",
+  "result.notReached": "Not within 60 years",
+  "result.reachPattern": "{year} · age {age}",
+  "result.gap": "Still to build",
+  "result.gapNote": "Let compounding take the baton",
+  "result.breakdownKicker": "THE ANATOMY",
+  "result.breakdown": "What makes up your number",
+  "result.legendLife": "Living costs",
+  "result.legendKids": "Children",
+  "result.legendHealth": "Health reserve",
+  "result.legendHome": "Major capital",
+  "result.insight": "Spending {step} less each month lowers your threshold by {impact}. Spend {step} more, and freedom costs {impact} more.",
+  "result.badgeCaption": "Your “{tier}” commemorative badge",
+  "result.badgeSub": "Downloadable · shareable · yours",
+  "badge.freedom": "FINANCIAL FREEDOM",
+  "badge.myNumber": "MY FREEDOM NUMBER",
+  "badge.tier": "TIER {tier}",
+  "badge.tapHint": "Move your cursor. Catch the light.",
+  "badge.amountLabel": "MY FREEDOM NUMBER",
+  "tiers": [
+    "First Light",
+    "Gentle Breeze",
+    "Open Horizon",
+    "Stellar",
+    "Legend"
+  ],
+  "method.eyebrow": "03 / THE FORMULA",
+  "method.title": "Freedom is not a guess.<br><em>It has four variables</em>",
+  "method.lede": "This formula does not promise wealth. It turns “how much do I need?” from anxiety into a question you can break down, act on and revisit.",
+  "method.cards": [
+    {
+      "icon": "wallet",
+      "label": "LIFESTYLE",
+      "title": "Monthly life × 480",
+      "body": "This is the spine. At a 2.5% real return, 480 represents the months of life your capital must cover while you spend one month each month and still keep pace with inflation.",
+      "example": "Spend $1,000/mo → $480,000"
+    },
+    {
+      "icon": "baby",
+      "label": "CHILDREN",
+      "title": "Children × cost per child",
+      "body": "Raising a child is not a fixed monthly bill. It is a large, 18-year commitment. Estimate the total cost from planning to adulthood, then multiply by the number of children.",
+      "example": "1 child · $120,000"
+    },
+    {
+      "icon": "heart",
+      "label": "HEALTH",
+      "title": "Lifetime health reserve",
+      "body": "Medical costs are wildly uncertain. This is not money you expect to spend; it is the buffer that stops one illness from breaking the whole plan.",
+      "example": "A couple · $60,000–$250,000"
+    },
+    {
+      "icon": "home",
+      "label": "CAPITAL",
+      "title": "Home and other big items",
+      "body": "A home, a business, study abroad, caring for parents — one-off capital does not fit the 480× logic. Add it directly. If you rent, keep rent in your monthly budget.",
+      "example": "A home · $1,000,000"
+    }
+  ],
+  "method.deepCaption": "One month of life,<br>multiplied by 480 months",
+  "method.deepChip": "= 480 months of life",
+  "method.deepKicker": "WHY 480?",
+  "method.deepTitle": "Why not 300 — or 1,000?",
+  "method.deepLede": "The video uses a deliberately conservative real-return assumption: 4%–4.5% nominal, about 2% long-run inflation, leaving roughly 2.5% real. Twelve months divided by 2.5% gives 480.",
+  "method.points": [
+    {
+      "value": "12",
+      "body": "<b>There are 12 months in a year.</b> To make your capital produce 12 months of life every year, start with your annual spending."
+    },
+    {
+      "value": "2.5%",
+      "body": "<b>After inflation, your money still has to work.</b> This is the long-run, conservative assumption used in the video — not a guarantee."
+    },
+    {
+      "value": "480",
+      "body": "<b>12 ÷ 2.5% = 480.</b> Not magic: a ruler. The lower the real return, the more capital you need."
+    }
+  ],
+  "method.deepNote": "Note: the 4% rule usually estimates a withdrawal rate that spends down the portfolio over time. 480× is stricter: the principal must not shrink, and purchasing power must not fall.",
+  "method.assumptionsKicker": "THE FINE PRINT",
+  "method.assumptionsTitle": "Four assumptions you must know",
+  "method.assumptions": [
+    {
+      "icon": "chart",
+      "title": "Inflation never stops",
+      "body": "At 2% inflation, $10,000 of purchasing power becomes about $6,700 in 20 years. The formula uses a real return, so this erosion is already removed."
+    },
+    {
+      "icon": "target",
+      "title": "Returns are not a straight line",
+      "body": "Markets fluctuate. A bad early sequence can hurt even if the average return is fine. Keep one to two years of living costs as a buffer."
+    },
+    {
+      "icon": "refresh",
+      "title": "Life will change the answer",
+      "body": "Partnership, children, moving, caring for parents — all change your monthly life. Recalculate every year or two. Iteration beats false precision."
+    },
+    {
+      "icon": "leaf",
+      "title": "This is not permission to lie flat",
+      "body": "Financial freedom does not buy “doing nothing”. It buys the ability to say no. Do not miss the life in front of you for a number."
+    }
+  ],
+  "quote.text": "Don’t overestimate the joy after financial freedom. Don’t overlook the beauty in front of you.",
+  "quote.by": "Freedom is not splitting life into suffering now and pleasure later. It is having a choice again.",
+  "guide.eyebrow": "04 / THE FIELD GUIDE",
+  "guide.title": "Before you fill it in,<br><em>understand it</em>",
+  "guide.lede": "No finance degree required. Read these notes and your estimate of freedom will be clearer than most.",
+  "guide.items": [
+    {
+      "tag": "FORMULA",
+      "title": "Where does 480 actually come from?",
+      "body": [
+        "The core assumption: 4%–4.5% nominal return, 2% long-run inflation, which leaves about 2.5% real. If you spend x a month, you spend 12x a year. To earn 12x in real terms without shrinking capital, you need 12x ÷ 2.5% = 480x.",
+        "Another way to say it: every 480 units of capital can permanently support 1 unit of monthly spending. Spend 1,000 more a month, and your threshold rises by 480,000. The multiplier translates “how I want to live” into “how much capital I need”.",
+        "This differs from the familiar 4% rule. The 4% rule usually allows the portfolio to be spent down; 480× requires both principal and purchasing power to survive. It is more conservative, and better suited to the extreme assumption of never working again."
+      ],
+      "asideLabel": "REMEMBER",
+      "aside": "480× is the result of a 2.5% real return, not a law of the universe."
+    },
+    {
+      "tag": "LIFESTYLE",
+      "title": "How should I estimate monthly life?",
+      "body": [
+        "Do not start with “what should I spend?” Start with “how do I want to live?” If you stopped working tomorrow, what would an ordinary month look like: where would you live, what would you eat, how would you move, how often would you travel, would you pay for help?",
+        "The costs most often missed are non-monthly: insurance, health checks, gifts, replacing devices, home repairs. Add the last 12 months and divide by 12. That is usually more honest than a guess.",
+        "If you plan to rent forever, include rent in monthly life. If you plan to buy, put the purchase in major capital. Do not count both."
+      ],
+      "asideLabel": "ANCHOR",
+      "aside": "China’s 2025 average household consumption is about ¥2,456 per person per month."
+    },
+    {
+      "tag": "CHILDREN",
+      "title": "How much should I reserve for children?",
+      "body": [
+        "China’s fertility-cost report estimates an average of about ¥580,000 to raise a child from planning to age 18 in 2024. Beijing is around ¥1m, Shanghai about ¥1.08m, Guizhou about ¥430,000. Regional differences are huge.",
+        "This is not one payment. It is spread across 18 years. In the freedom number, we reserve it upfront so future cash flow is not broken by it.",
+        "For multiple children, you can lower the per-child cost: the report suggests roughly 15% lower average cost for each additional child. Education choices matter even more — public versus international can be a different order of magnitude."
+      ],
+      "asideLabel": "NOTE",
+      "aside": "This only covers age 18. University and a first home are extra."
+    },
+    {
+      "tag": "HEALTH",
+      "title": "Why can’t I skip the health reserve?",
+      "body": [
+        "China’s official lifetime health spending averages about ¥200,000 per person, but that measure is narrow. A more practical range: ¥150k–300k per person in a tier-2 city, ¥300k–600k in a tier-1 city, adjusted for family history, age and insurance.",
+        "Health money behaves differently. You may never use it, or one illness may consume it in a year. It should not chase high returns; it belongs somewhere liquid and low-risk.",
+        "If you have private medical insurance, this reserve can focus on what insurance does not cover: self-paid drugs, care, lost income and treatment abroad."
+      ],
+      "asideLabel": "MARGIN",
+      "aside": "Better to hold a little extra than to sell assets at the worst moment."
+    },
+    {
+      "tag": "HOUSING",
+      "title": "How do housing, rent and pensions fit?",
+      "body": [
+        "Buying: put the full price, or the deposit plus mortgage principal you will actually pay, into major capital. It does not get the 480× compounding treatment; it is added directly to the target.",
+        "Renting: put monthly rent into monthly life. It is then covered by the 480× multiplier automatically, because rent is an ongoing living cost, not one-off capital.",
+        "Pensions and social security: the formula assumes you are entirely self-funded. If you will have a reliable pension, you can lower the target modestly — but do not bank all of it on an uncertain system decades away."
+      ],
+      "asideLabel": "NO DOUBLE COUNT",
+      "aside": "Buying and renting: use only one method."
+    },
+    {
+      "tag": "RETURNS",
+      "title": "Why can’t I just assume a higher return?",
+      "body": [
+        "Move the return from 2.5% to 3.5% and the multiplier falls from 480 to about 343; your freedom number drops by nearly 30%. That is why optimistic assumptions are dangerous: they make the target look closer without changing the risk.",
+        "The video uses 2.5% because, after 2% inflation, it only requires a 4%–4.5% nominal return. For most people that already demands a sensible asset allocation, not a savings account.",
+        "The safer move is a stress test: recalculate at 2%. If that number feels impossible, the answer is probably to adjust spending or income, not to invent a better return."
+      ],
+      "asideLabel": "STRESS TEST",
+      "aside": "Recalculate at a lower return. Does the plan still hold?"
+    }
+  ],
+  "faq.eyebrow": "05 / YOU MIGHT ASK",
+  "faq.title": "A few<br><em>honest questions</em>",
+  "faq.lede": "If you still have questions, you are taking your life seriously.",
+  "faq.items": [
+    {
+      "q": "Is this the standard answer?",
+      "a": "No. It is a ruler customised to your life. Change the city, your spending habits or the return assumption and the number changes. Its value is not precision; it is making trade-offs visible."
+    },
+    {
+      "q": "How is 480× different from the 4% rule?",
+      "a": "The 4% rule usually means withdrawing 4% a year and allowing the principal to run out after about 30 years. 480× requires the principal never to shrink and purchasing power never to fall. The assumptions differ; do not mix them."
+    },
+    {
+      "q": "I own a home / have no children. What do I enter?",
+      "a": "If you own a home you do not plan to replace, enter 0 for major capital. If you have a mortgage, put the monthly payment in living costs. With no children, set the count to 0 and the childcare term becomes zero."
+    },
+    {
+      "q": "Should I include my pension?",
+      "a": "You can, but be conservative. Subtract the present value of a reliable pension from the target, or reduce the target by 10%–20%. Do not assume the system will be unchanged decades from now."
+    },
+    {
+      "q": "Why is my number so much higher than my friend’s?",
+      "a": "Because your living costs, children, health reserve and housing plans differ. Financial freedom is not a competition. It is only about the life you want."
+    },
+    {
+      "q": "Is my data uploaded?",
+      "a": "No. Every calculation, chart and share card is generated in your browser. Nothing is sent to a server when you refresh or close the page."
+    }
+  ],
+  "plan.eyebrow": "THE LONG GAME",
+  "plan.title": "Your long-term savings plan",
+  "plan.lede": "From today to freedom, how compounding takes the baton.",
+  "plan.target": "Target",
+  "plan.date": "Estimated date",
+  "plan.age": "Freedom age",
+  "plan.monthly": "Monthly input",
+  "plan.chartTitle": "The path of your assets",
+  "plan.chartHint": "All amounts in today’s purchasing power",
+  "plan.legendContrib": "Contributions",
+  "plan.legendGrowth": "Compounding",
+  "plan.legendTarget": "Target",
+  "plan.legendFast": "+20% pace",
+  "plan.sliderLabel": "Adjust monthly investing",
+  "plan.requiredLabel": "To arrive within 10 years",
+  "plan.note": "Assumes monthly contributions rise with inflation, stable returns and no extra large withdrawals. Real markets fluctuate; keep a margin of safety.",
+  "plan.phasesTitle": "A three-phase action list",
+  "plan.phasesSub": "Turn the number into something you can do today",
+  "plan.phases": [
+    {
+      "step": "PHASE 01",
+      "title": "Build the floor",
+      "body": "Save six months of living costs as an emergency fund and clear high-interest debt. Make the plan hard to break."
+    },
+    {
+      "step": "PHASE 02",
+      "title": "Let compounding accelerate",
+      "body": "Automate monthly investing and build a diversified stock-and-bond portfolio. Each raise, add part of it to the plan."
+    },
+    {
+      "step": "PHASE 03",
+      "title": "Protect the result",
+      "body": "As you approach the target, reduce volatility and hold one to two years of living costs as a buffer. Keep learning after freedom."
+    }
+  ],
+  "plan.phaseTarget": "Phase target · {amount}",
+  "plan.accelHint": "Saving 20% more each month gets you there {years} years earlier.",
+  "plan.accelZero": "Saving 20% more barely changes the date. Consider investing more or lowering the target.",
+  "plan.requiredPattern": "{amount} / month",
+  "plan.notReached": "Under these assumptions, you will not arrive within 60 years. Try increasing monthly investing.",
+  "plan.reachNow": "Already there",
+  "plan.never": "Not started",
+  "plan.yearLabel": "{year}",
+  "plan.ageLabel": "age {age}",
+  "plan.nowLabel": "Today",
+  "plan.axisYears": "years",
+  "plan.axisAssets": "assets",
+  "plan.tooltipYear": "Year {year} · age {age}",
+  "plan.tooltipContrib": "Contributions {amount}",
+  "plan.tooltipGrowth": "Compounding {amount}",
+  "plan.tooltipTotal": "Total {amount}",
+  "share.eyebrow": "SHARE YOUR FREEDOM",
+  "share.title": "Send your freedom into the world",
+  "share.lede": "Create a one-of-a-kind share card, download it, or post it straight to social media.",
+  "share.download": "Download image",
+  "share.native": "Share via device",
+  "share.copy": "Copy caption",
+  "share.note": "You can also press and hold the image to save it. The card includes your amount, progress and long-term plan.",
+  "share.quote": "“The number is not the finish line. It is a starting point for a rearranged life.”",
+  "share.generating": "Creating your share card…",
+  "share.text": "My freedom number is {amount}. Not someone else’s millions — mine, and it feels like “{tier}”. What’s yours? #FinancialFreedom #FreedomNumber",
+  "share.generated": "Share card is ready",
+  "share.downloaded": "Download started",
+  "share.copySuccess": "Caption copied",
+  "share.nativeUnsupported": "This browser cannot share files. The image was downloaded instead.",
+  "share.error": "Generation failed. Please try again.",
+  "share.cardTop": "THE FREEDOM NUMBER",
+  "share.cardTag": "MY FREEDOM BADGE",
+  "share.cardFooter": "Find your own number",
+  "share.cardMetrics": "MONTHLY LIFE · ARRIVAL · MONTHLY INPUT",
+  "footer.tagline": "Make freedom legible.",
+  "footer.disclaimer": "This tool is for personal financial planning only and is not investment, tax or legal advice. All return assumptions are illustrative and do not guarantee future results.",
+  "footer.inspired": "Inspired by the framework in",
+  "footer.made": "Made for people who live deliberately",
+  "toast.reset": "Defaults restored",
+  "toast.invalid": "Please check your inputs",
+  "common.perMonth": "/ month",
+  "common.perYear": "/ year",
+  "common.yearUnit": "years",
+  "common.ageUnit": "years old",
+  "common.close": "Close",
+  "common.howEstimate": "How to estimate",
+  "common.more": "Read more",
+  "common.less": "Show less",
+  "meta.title": "What Is Your Freedom Worth? · Freedom Number",
+  "meta.description": "Fill in a few numbers to get your freedom number, badge and long-term savings plan.",
+  "share.statMonthly": "MONTHLY LIFE",
+  "share.statArrival": "ARRIVAL",
+  "share.statInput": "MONTHLY INPUT",
+  "share.progressLabel": "FREEDOM PROGRESS",
+  "mascot.calc": "Let’s calculate",
+  "mascot.method": "Break it down",
+  "mascot.guide": "Read slowly",
+  "mascot.faq": "Ask away",
+  "calc.sceneKicker": "YOUR LIFE, WRITTEN DOWN",
+  "calc.sceneTitle": "Write life down. The number follows.",
+  "calc.sceneBody": "Life, children, health, home — define the four, and freedom takes shape."
+}
